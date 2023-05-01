@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 # Welcome to my GitHub 👋
 
 Tackling code problems one line at a time. Need a hand? I'm your guy!
@@ -57,3 +58,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
