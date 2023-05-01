@@ -3,7 +3,7 @@
 Tackling code problems one line at a time. Need a hand? I'm your guy!
 
 - 🔭 I’m currently working on <a href="https://github.com/Vorelli/nightingale">Nightingale</a>
-- 🌱 I’m currently learning Next.js and Go
+- 🌱 I’m currently learning Go and dabbling with Kubernetes
 - 👯 I’m looking to collaborate on anything. If it's interesting, I can get behind it.
 
 ## Technologies I Work With
