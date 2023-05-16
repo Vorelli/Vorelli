@@ -2,11 +2,11 @@
 
 # Welcome to my GitHub 👋
 
-Tackling code problems one line at a time. Need a hand? I'm your guy!
+I am a software engineer whose heart beats in the rhythm of code, day and night. Need a hand? I'm your guy!
 
 🔭 I’m working on <a href="https://github.com/Vorelli/nightingale">Nightingale</a>
 
-🌱 I’m learning Python (Django) and dabbling with Kubernetes
+🌱 I’m learning Python (Django) and dabbling with K8s
 
 👯 I’m looking to collaborate on anything. If it's interesting, I can get behind it.
 
