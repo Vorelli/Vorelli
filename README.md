@@ -6,7 +6,7 @@ I am a software engineer whose heart beats in the rhythm of code, day and night.
 
 🔭 I’m working on <a href="https://github.com/Vorelli/nightingale">Nightingale</a>
 
-🌱 I’m learning Python (Django) and dabbling with K8s
+🌱 I’m learning Go and dabbling with K8s
 
 👯 I’m looking to collaborate on anything. If it's interesting, I can get behind it.
 
