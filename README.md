@@ -10,7 +10,7 @@ I am a software engineer whose heart beats in the rhythm of code, day and night.
 
 👯 I’m looking to collaborate on anything. If it's interesting, I can get behind it.
 
-## Technologies I Work With
+## Technology
 
 ### Languages
 
