@@ -1,8 +1,6 @@
 <div align="center">
 
-# Welcome to my GitHub 👋
-
-I am a software engineer whose heart beats in the rhythm of code, day and night. Need a hand? I'm your guy!
+# Welcome 👋
 
 🔭 I’m working on <a href="https://github.com/Vorelli/nightingale">Nightingale</a>
 
